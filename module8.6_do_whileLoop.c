@@ -9,3 +9,4 @@ int main(){
     printf("your input is %d",x);
     
 }
+//in do while loop the program will execute only one definetly but in while loop it is not confirmed
